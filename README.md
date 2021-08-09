@@ -1,7 +1,7 @@
 # Sodavendingmachine
 This project is demo application for  vending machine .
 we are using in memory database and table name is Item 
-we are using spring boot, 
+we are using spring boot,Rest Api,JPA 
 To build the project :
 Git clone <repo url >
 navigate to SodaVendingMachine folder 
